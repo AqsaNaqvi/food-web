@@ -139,7 +139,7 @@ body::-webkit-scrollbar-track{
 }
 
 .recipe-details::-webkit-scrollbar{
-    width: 10px;
+    width: 15px;
 
 }
 .recipe-details::-webkit-scrollbar-thumb{
